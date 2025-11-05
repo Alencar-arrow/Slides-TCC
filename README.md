@@ -1,3 +1,5 @@
-# Slides para o TCC do projeto BugTalk
 
-O repositório do projeto pode ser encontrado [aqui](https://github.com/Gab-off/BugTalk)
+=======
+# Slides-TCC
+Slides para o tcc
+>>>>>>> 145a17d6165ce78b5bcceff3414ad2bfbd020001
